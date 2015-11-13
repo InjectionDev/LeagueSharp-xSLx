@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultimate Carry Prevolution", "Ultimate Carry Prevolution\Ultimate Carry Prevolution.csproj", "{A6D19B67-D713-4DD8-B066-BEB61F019646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xSLx-Orbwalker", "..\xSLx-Orbwalker\xSLx-Orbwalker\xSLx-Orbwalker.csproj", "{420FBCFA-EA84-4144-AFBC-2C79A5D23BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xSLx-Activator", "..\xSLx-Activator\xSLx-Activator\xSLx-Activator.csproj", "{BB6BA1AC-A659-4BE4-B340-3281CE6BB513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D19B67-D713-4DD8-B066-BEB61F019646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D19B67-D713-4DD8-B066-BEB61F019646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D19B67-D713-4DD8-B066-BEB61F019646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D19B67-D713-4DD8-B066-BEB61F019646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420FBCFA-EA84-4144-AFBC-2C79A5D23BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420FBCFA-EA84-4144-AFBC-2C79A5D23BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420FBCFA-EA84-4144-AFBC-2C79A5D23BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420FBCFA-EA84-4144-AFBC-2C79A5D23BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6BA1AC-A659-4BE4-B340-3281CE6BB513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6BA1AC-A659-4BE4-B340-3281CE6BB513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6BA1AC-A659-4BE4-B340-3281CE6BB513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6BA1AC-A659-4BE4-B340-3281CE6BB513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
