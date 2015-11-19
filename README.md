@@ -4,6 +4,6 @@ L# AIO Ultimate Carry Prevolution - Coop work with InjectionDev, xSalice and Lex
 
 League Sharp AIO Ultimate Carry Prevolution
 
-Coop work with xSalice and Lexxes 
+Cooperative work with InjectionDev, xSalice and Lexxes 
 
 (Discontinued)
